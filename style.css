@@ -71,7 +71,6 @@ main {
   border: none;
   background-color: transparent;
   cursor: pointer;
-  transition: all 100ms linear;
 }
 
 .sound {
